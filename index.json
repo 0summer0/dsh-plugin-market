@@ -32,7 +32,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/0summer0/dsh-skill-icp-exemption",
-            "commit": "6ad527fa5bfd93271842b6755e73dc279775ca7a"
+            "commit": "28ce83e38730fc08ff0b8f6752275105c4a80909"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.1 <0.3.0"
