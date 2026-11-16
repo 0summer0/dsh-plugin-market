@@ -28,11 +28,9 @@
       "versions": [
         {
           "version": "0.1.0",
-          "publishTimestamp": 1794843980,
+          "publishTimestamp": 1794845731,
           "source": {
-            "type": "git",
-            "url": "https://github.com/0summer0/dsh-skill-icp-exemption",
-            "commit": "28ce83e38730fc08ff0b8f6752275105c4a80909"
+            "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.1 <0.3.0"
